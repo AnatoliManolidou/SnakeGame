@@ -1,4 +1,4 @@
-#Snake Game
+Snake Game
 
 Project for the course “Data Structures”,2022-23 ECE AUTH
 
