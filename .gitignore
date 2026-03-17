@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java build outputs
+out/
+*.class
+
+# Logs
+*.log
+
+# OS files (Windows)
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
