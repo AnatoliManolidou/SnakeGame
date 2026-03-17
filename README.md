@@ -39,14 +39,11 @@ SnakeGame/
 |   |-- Ladder.java
 |   `-- Present.java
 |
-|-- out/
-|   `-- production/
-|       `-- 10874_PartB/
-|           `-- *.class
-|
-|-- 10874_PartB.iml
+|-- .gitignore
 `-- README.md
 ```
+
+Local IDE/build artifacts (e.g., `.idea/`, `out/`, `*.iml`, `*.class`) are intentionally ignored via `.gitignore`.
 
 ---
 
