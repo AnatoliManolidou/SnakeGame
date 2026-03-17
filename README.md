@@ -1,6 +1,6 @@
 <div align="center">
 
-# Snake and Ladders - Heuristic Player (Part B)
+# Snake and Ladders - Heuristic Player
 
 **Data Structures course project implementation in Java**
 
